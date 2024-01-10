@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/MilenaValentini/TRM_Dati/main/Nemo_6670.dat
+Nemo_6670.dat
+age_plot_intervals.dat
+star_pops.py
