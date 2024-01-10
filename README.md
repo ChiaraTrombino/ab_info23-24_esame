@@ -18,6 +18,6 @@ Then it runs the program "star_pops.py" (line 4) which uses the two enviroment v
 
 PYTHON PROGRAM:
 "star_pops.py" uses the data from "Nemo_6670.dat" (the downloaded file) to produce three graphics:
-1) an HR diagram using the age intervals from "age_plot_intervals.dat", the colors of the age intervals are picked from a default palette using the cmasher package;
+1) an HR diagram using the age intervals from "age_plot_intervals.dat", the age intervals colors are picked from a default palette using the cmasher package;
 2) metallicity histograms for three star population defined in the program and indipendent from "age_plot_intervals.dat". It also shows the mean and median for each histogram;
 3) mass-metallicity graph for the previous three populations, the points of th more populated ones are shown with lower opacity.
