@@ -79,7 +79,7 @@ plt.title('Metallicity - Initial Mass')
 plt.xlabel('Initial Mass')
 plt.ylabel('[M/H]')
 
-#plotting the mass-metallicity graph with lower transparency on the most populated groups of stars
+#plotting the mass-metallicity graph with lower opacity on the most populated groups of stars
 transp = [0.2,0.2,1.0]
 for i in range(3):
 	plt.scatter(m_ini[pop[i]],m_h[pop[i]],c=colors[i], s=5.0, label= labels_pop[i], alpha=transp[i])	
